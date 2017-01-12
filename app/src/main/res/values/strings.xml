@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bike Location App</string>
+    <string name="LatLngPrompt">Enter the Lat/Lng</string>
+    <string name="Submit">Enter</string>
+    <string name="title_activity_display_lat_lng">Map</string>
+    <string name="SMSButton">Gather Coordinates from Text Message</string>
+</resources>
